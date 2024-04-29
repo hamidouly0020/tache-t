@@ -1,0 +1,16 @@
+.mex-taco{
+    background-image: url('tacos-mexicains.jpeg');
+    background-size: cover;
+}
+.interior{
+    background-image: url('img3-1.jpg');
+    background-size: 100%;
+}
+.abonnez-vous{
+    background-image: url('img5-1.jpg');
+    background-size: 100%;
+}
+.btn-warning{
+    border: none;
+    border-bottom: 1px solid black;
+}
